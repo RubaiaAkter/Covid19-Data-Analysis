@@ -14,7 +14,7 @@ THis project performs data analysis and vifualization on global COVID-19 data us
 - Cleaning and preprocessing COVID-19 dataset
 - Country-wise comparison
 - Time series analysis of cases and deaths
-- Visualization using bar charts, histogram, and scatter plot.
+- Visualization using bar charts, histogram, scatter plot and heatmap etc.
 
 ## How to Run:
 
